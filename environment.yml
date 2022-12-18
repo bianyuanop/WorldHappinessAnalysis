@@ -1,0 +1,16 @@
+name: noclue
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.9
+  - notebook
+  - pandas
+  - numpy=1.22.3
+  - pycountry
+  - altair=4.2.0
+  - scikit-learn
+  - matplotlib
+  - pytorch
+  - statsmodels
